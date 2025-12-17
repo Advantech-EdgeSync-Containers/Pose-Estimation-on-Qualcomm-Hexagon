@@ -135,7 +135,7 @@ This container offers:
 
 
 ### Container Quick Start Guide
-For container quick start, including the docker-compose file and more, please refer to [README.](https://github.com/Advantech-EdgeSync-Containers/Nagarro-Container-Project/blob/main/Pose-Estimation-on-Qualcomm-Hexagon/README.md)
+For container quick start, including the docker-compose file and more, please refer to [README.](https://github.com/Advantech-EdgeSync-Containers/Pose-Estimation-on-Qualcomm-Hexagon/blob/main/README.md)
 
 ### Supported AI Capabilities
 

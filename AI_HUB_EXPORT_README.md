@@ -44,15 +44,15 @@ This step guides you through exporting the quantized HRNet Pose model. Choose th
 ### First-Time Setup (Clone Needed)
 ```bash
 # Clone the project repository
-git clone https://github.com/Advantech-EdgeSync-Containers/Nagarro-Container-Project.git
+git clone https://github.com/Advantech-EdgeSync-Containers/Pose-Estimation-on-Qualcomm-Hexagon.git
 
 # Move into the proper directory
-cd Nagarro-Container-Project/Pose-Estimation-on-Qualcomm-Hexagon
+cd Pose-Estimation-on-Qualcomm-Hexagon
 ```
 ### Repository Already Cloned
 ```bash
 # Navigate directly to the working directory
-cd Nagarro-Container-Project/Pose-Estimation-on-Qualcomm-Hexagon
+cd Pose-Estimation-on-Qualcomm-Hexagon
 ```
 
 ### Export Model Script Execution
